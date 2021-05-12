@@ -1,0 +1,89 @@
+			         MODULE 02 - QUIZ
+
+1. A database management system (DBMS) is important to modern organizations because:
+
+a)It provides infrastructure for daily operations
+b)It facilitates decision making process
+c)It helps organizations to manage their data
+d)All options
+
+Ans ) d)All options
+
+2. Facts that are formatted,interpreted or combined can be called :
+
+a) Data
+b) Information
+c) Facts
+d) Organization
+
+Ans) a) Data
+
+3. Which statement is TRUE about database :
+
+a) Entities in database cannot have relationships
+b) A database stores program's , varibles and codes
+c) Only few users can use the database 
+d) Database is a generic name for collecting and storing data
+
+Ans) d) Database is a generic name for collecting and storing data
+
+4. Responsibilities of data administrator includes :
+
+a) Standard setting
+b) Planning database
+c) Manage non-computerized database
+d) All options
+
+Ans) d) All options 
+
+5. Types of DBMS includes:
+
+a) Enterprise DBMS
+b) Desktop DBMS
+c) Embedded DBMS
+d) All options
+
+Ans) d) All options
+
+6. Identify advantages of combining a procedural language with a non-procedural language :
+
+a) Provides improved performance in some situations
+b) Allows batch processing
+c) Allows form and report customizations
+d) All options
+
+Ans) d) All options
+
+7. Transaction processing ability in an enterprise DBMS is typically better than the transaction
+processing ability in a DBMS desktop. 
+
+a) True
+b) False
+
+Ans) a) True
+
+8. Integrating external data with summarized internal data will most likely benefit which of
+the management levels:
+
+a) Top management
+b) Middle management
+c) Lower management
+d) Database management
+
+Ans) b) Middle management
+
+9. The dominant process in data warehouse is summarized data retrieval
+
+a) True
+b) False
+
+Ans) a) True
+
+10. Persistent is a property for databases. What does it mean ?
+
+a) The data should be stored on persistent hardware
+b) The data cannot be deleted
+c) The data can be stored only on temporary memory
+d) The data from different units can be connected together
+
+Ans) a) The data should be stored on persistent hardware
